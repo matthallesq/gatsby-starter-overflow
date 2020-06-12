@@ -189,7 +189,7 @@ const IndexPage = () => (
         <p>This starter has other elements.</p>
         <br />
         Check it out
-        <Link to="/post1"> here </Link>
+        <Link to="/post-1"> here </Link>
       </header>
     </article>
 
