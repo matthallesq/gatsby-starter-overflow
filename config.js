@@ -8,14 +8,14 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-overflow/`, // This path is subpath of your hosting https://domain/portfolio
-  authorName: 'MAtt Hall',
-  heading: 'LENZIFY',
+  authorName: 'LENZIFY',
+  heading: 'Digital & Startup Advisors',
   // social
   socialLinks: [
     {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      icon: 'fa-linkedin',
+      name: 'LinkedIN',
+      url: 'https://facebook.com/https://www.linkedin.com/in/mattfhall/',
     },
     {
       icon: 'fa-envelope-o',
