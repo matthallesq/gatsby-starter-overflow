@@ -11,9 +11,7 @@ export default function Header({ title, heading, avatar }) {
       </header>
       <footer>
         <Scroll type="id" element="banner">
-          <a href="#banner" className="button style2 ">
-            Proceed as anticipated
-          </a>
+   
         </Scroll>
       </footer>
     </section>
