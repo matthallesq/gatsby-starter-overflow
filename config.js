@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Overflow', // <title>
+  siteTitle: 'LENZIFY', // <title>
   manifestName: 'Overflow',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -8,20 +8,10 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-overflow/`, // This path is subpath of your hosting https://domain/portfolio
-  authorName: 'Anubhav',
-  heading: 'Web Developer',
+  authorName: 'MAtt Hall',
+  heading: 'LENZIFY',
   // social
   socialLinks: [
-    {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    },
-    {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
-    },
     {
       icon: 'fa-facebook',
       name: 'Facebook',
@@ -30,7 +20,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:matt@lenzify.com',
     },
   ],
 };
