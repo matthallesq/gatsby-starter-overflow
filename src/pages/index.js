@@ -132,7 +132,7 @@ const IndexPage = () => (
           placerat cubilia purus lectus.
         </p>
       </header>
-
+{/* 
       <div className="inner gallery">
         <Gallery
           images={ROW1_IMAGES.map(({ src, thumbnail, caption }) => ({
@@ -148,10 +148,12 @@ const IndexPage = () => (
             caption,
           }))}
         />
-      </div>
+      </div>    */}
     </article>
+    
 
-    <article className="container box style3">
+
+{/*     <article className="container box style3">
       <header>
         <h2>Nisl sed ultricies</h2>
         <p>Diam dignissim lectus eu ornare volutpat orci.</p>
@@ -188,6 +190,7 @@ const IndexPage = () => (
       </form>
     </article>
 
+     */}
     <article className="container box style3">
       <header>
         <h2>LEAN CANVAS TEMPLATE IN VARIOUS POSTER SIZES </h2>
