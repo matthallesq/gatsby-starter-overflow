@@ -21,12 +21,9 @@ const IndexPage = () => (
 
         <p>This can be broadly characterised by:</p>
 <ul>
-
 <li>Everyone & everything increasingly being interconnected through the internet in someway</li>
 <li>New thinking & ways of doing things that has wide ranging implications for governments, economies. markets and society in general</li>
-<li><New business and operating models that deliver new products and services enabled through this interconnectivity </li>
-
-</ul>
+<li>New business and operating models that deliver new products and services enabled through this interconnectivity </li></ul>
 
 <p>In the business context digital is creating new opportunities (and threats) </p>
 
