@@ -58,19 +58,12 @@ const ROW2_IMAGES = [
 const IndexPage = () => (
   <Layout>
     <Header />
-{/* 
+
     <section id="banner">
       <header>
-        <h2>This is Overflow</h2>
+        <h2>Welcome to Lenzify</h2>
       </header>
       <p>
-        A brand new site template designed by{' '}
-        <a href="http://twitter.com/ajlkn">AJ</a> for{' '}
-        <a href="http://html5up.net">HTML5 UP</a>.<br />
-        It’s responsive, built on HTML5/CSS3, and entirely free
-        <br />
-        under the{' '}
-        <a href="http://html5up.net/license">Creative Commons license</a>.
       </p>
       <footer>
         <Scroll type="id" element="first">
@@ -81,7 +74,6 @@ const IndexPage = () => (
       </footer>
     </section>
 
-*/}
 
     <article id="first" className="container box style1 right">
       <a href="/post-2" className="image fit">
@@ -101,7 +93,7 @@ const IndexPage = () => (
         The work we’ve have been doing at Briarbird of late often involves engagements with local governments, many of which provide insight into their respective digital transformation programs. 
         </p>
         <p>   
-        <Link to="/post-2"> here </Link></p>
+        <Link to="/post-2"> Read now </Link></p>
       </div>
     </article>
 
@@ -132,7 +124,7 @@ const IndexPage = () => (
       <h2> WHAT IS DIGITAL?</h2>
         <p>Someone asked me recently what I thought digital was? Whilst there are are plethora of great definitions out there already, I thought I’d have a go at making my own. </p>
         Check it out
-        <Link to="/post-3"> here </Link>
+        <Link to="/post-3"> Read now  </Link>
       </header>
 {/* 
       <div className="inner gallery">
@@ -198,8 +190,8 @@ const IndexPage = () => (
         <h2>LEAN CANVAS TEMPLATE IN VARIOUS POSTER SIZES </h2>
         <p>This starter has other elements.</p>
         <br />
-        Check it out
-        <Link to="/post-1"> here </Link>
+        
+        <Link to="/post-1"> Check them out  </Link>
       </header>
     </article>
 
