@@ -123,7 +123,10 @@ const IndexPage = () => (
       </div>
     </article>
 
-    <article className="container box style2">
+    <article className="container box style1 right">
+    <a href="/post-3" className="image fit">
+        <img src={pic3} alt="" />
+      </a>
       <header>
       <h2> WHAT IS DIGITAL?</h2>
         <p>Someone asked me recently what I thought digital was? Whilst there are are plethora of great definitions out there already, I thought I’d have a go at making my own. </p>
