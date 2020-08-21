@@ -61,16 +61,10 @@ const IndexPage = () => (
 
     <section id="banner">
       <header>
-        <h2>Welcome to Lenzify</h2>
+        <h2> Lets chat! </h2>
       </header>
-      <p>
-      </p>
+      <p>+61407233566</p>
       <footer>
-        <Scroll type="id" element="first">
-          <a href="#first" className="button style2 scrolly">
-            Act on this message
-          </a>
-        </Scroll>
       </footer>
     </section>
 
