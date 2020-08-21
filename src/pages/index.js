@@ -125,12 +125,10 @@ const IndexPage = () => (
 
     <article className="container box style2">
       <header>
-        <h2>Magnis parturient</h2>
-        <p>
-          Justo phasellus et aenean dignissim
-          <br />
-          placerat cubilia purus lectus.
-        </p>
+      <h2> WHAT IS DIGITAL?</h2>
+        <p>Someone asked me recently what I thought digital was? Whilst there are are plethora of great definitions out there already, I thought I’d have a go at making my own. </p>
+        Check it out
+        <Link to="/post-3"> here </Link>
       </header>
 {/* 
       <div className="inner gallery">
