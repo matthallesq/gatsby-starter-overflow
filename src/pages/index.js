@@ -83,14 +83,14 @@ const IndexPage = () => (
 */}
 
     <article id="first" className="container box style1 right">
-      <a href="/#" className="image fit">
+      <a href="/post-2" className="image fit">
         <img src={pic1} alt="" />
       </a>
       <span>Photo by <a href="https://unsplash.com/@timmossholder?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tim Mossholder</a> on <a href="https://unsplash.com/s/photos/digital?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
       <div className="inner">
         <header>
           <h2>
-          Where is the citizen in council’s digital transformation?
+          Where is the citizen in transformation?
           </h2>
           <h3>
           Putting the last mile first in local government 
@@ -99,7 +99,8 @@ const IndexPage = () => (
         <p>
         The work we’ve have been doing at Briarbird of late often involves engagements with local governments, many of which provide insight into their respective digital transformation programs. 
         </p>
-        <p></p>
+        <p>   
+        <Link to="/post-2"> here </Link></p>
       </div>
     </article>
 
