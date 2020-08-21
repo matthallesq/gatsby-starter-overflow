@@ -14,13 +14,11 @@ const IndexPage = () => (
 </p>
       </header>
       <section>
-        <p>
+        <p> <Link to="/lean-model-canvas-a0.pdf"> Lean Model Canvas A0</Link></p>
+        <p> <Link to="/lean-model-canvas-a1.pdf"> Lean Model Canvas A1</Link></p>
+        <p> <Link to="/lean-model-canvas-a2.pdf"> Lean Model Canvas A2</Link></p>
 
-          <Link to="/lean-model-canvas-a0.pdf"> Lean Model Canvas A0</Link>
-          <Link to="/lean-model-canvas-a1.pdf"> Lean Model Canvas A1</Link>
-          <Link to="/lean-model-canvas-a2.pdf"> Lean Model Canvas A2</Link>
-
-        </p>
+      
       </section>
   
     </article>

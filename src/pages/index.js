@@ -57,7 +57,7 @@ const ROW2_IMAGES = [
 const IndexPage = () => (
   <Layout>
     <Header />
-
+{/* 
     <section id="banner">
       <header>
         <h2>This is Overflow</h2>
@@ -79,6 +79,8 @@ const IndexPage = () => (
         </Scroll>
       </footer>
     </section>
+
+*/}
 
     <article id="first" className="container box style1 right">
       <a href="/#" className="image fit">
@@ -185,7 +187,7 @@ const IndexPage = () => (
 
     <article className="container box style3">
       <header>
-        <h2>Elements</h2>
+        <h2>LEAN CANVAS TEMPLATE IN VARIOUS POSTER SIZES </h2>
         <p>This starter has other elements.</p>
         <br />
         Check it out
