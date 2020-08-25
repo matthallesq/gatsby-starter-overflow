@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from '../components/Layout';
-import Header from '../components/HeaderMin';
+import HeaderMin from '../components/HeaderMin';
 import Footer from '../components/Footer';
 import { Link } from 'gatsby';
 
