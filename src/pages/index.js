@@ -82,8 +82,7 @@ const IndexPage = () => (
         <Link to="/post-2"> Read now </Link></p>
       </div>
     </article>
-
-    <section id="banner">
+<article>    <section id="banner">
       <header>
         <h2> Lets chat! </h2>
         <h3> Call Matt </h3>
@@ -94,23 +93,23 @@ const IndexPage = () => (
 
       </footer>
     </section>
-    
+    </article>
+
+
     <article className="container box style1 left">
-      <a href="/#" className="image fit">
+      <a href="/post-4" className="image fit">
         <img src={pic2} alt="" />
       </a>
       <div className="inner">
         <header>
           <h2>
-            Mollis posuere
-            <br />
-            lectus lacus
+          STATE OF THE SHARING ECONOMY IN AUSTRALIA
           </h2>
         </header>
         <p>
-          Rhoncus mattis egestas sed fusce sodales rutrum et etiam ullamcorper.
-          Etiam egestas scelerisque ac duis magna lorem ipsum dolor.
+Recently I’ve been taking a more active interest in the sharing economy, particularly with the seemingly meteoric success of global start-up’s like Airbnb and Uber and the impact they are having in Australia. 
         </p>
+
       </div>
     </article>
 
