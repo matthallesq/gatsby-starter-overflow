@@ -10,7 +10,7 @@ export default function Header({ title, heading, avatar }) {
         <p>{config.heading}</p>
       </header>
       <footer>
-      <p>Helping businesses adopting contemporary approaches to customer and product development, </p>
+      <p>Helping businesses adopt contemporary approaches to customer and product development, </p>
       <p>delivering the insight, improvement and value for them to thrive.</p>
 
         <Scroll type="id" element="banner">
