@@ -10,51 +10,6 @@ import pic3 from '../assets/images/pic03.jpg';
 import Scroll from '../components/Scroll';
 import Gallery from '../components/Gallery';
 
-const ROW1_IMAGES = [
-  {
-    src: require('../assets/images/fulls/01.jpg'),
-    thumbnail: require('../assets/images/thumbs/01.jpg'),
-    caption: 'Ad infinitum',
-  },
-  {
-    src: require('../assets/images/fulls/02.jpg'),
-    thumbnail: require('../assets/images/thumbs/02.jpg'),
-    caption: 'Dressed in Clarity',
-  },
-  {
-    src: require('../assets/images/fulls/03.jpg'),
-    thumbnail: require('../assets/images/thumbs/03.jpg'),
-    caption: 'Raven',
-  },
-  {
-    src: require('../assets/images/fulls/04.jpg'),
-    thumbnail: require('../assets/images/thumbs/04.jpg'),
-    caption: "I'll have a cup of Disneyland, please",
-  },
-];
-
-const ROW2_IMAGES = [
-  {
-    src: require('../assets/images/fulls/05.jpg'),
-    thumbnail: require('../assets/images/thumbs/05.jpg'),
-    caption: 'Cherish',
-  },
-  {
-    src: require('../assets/images/fulls/06.jpg'),
-    thumbnail: require('../assets/images/thumbs/06.jpg'),
-    caption: 'Different.',
-  },
-  {
-    src: require('../assets/images/fulls/07.jpg'),
-    thumbnail: require('../assets/images/thumbs/07.jpg'),
-    caption: 'History was made here',
-  },
-  {
-    src: require('../assets/images/fulls/08.jpg'),
-    thumbnail: require('../assets/images/thumbs/08.jpg'),
-    caption: 'People come and go and walk away',
-  },
-];
 const IndexPage = () => (
   <Layout>
     <Header />
@@ -82,7 +37,10 @@ const IndexPage = () => (
         <Link to="/post-2"> Read now </Link></p>
       </div>
     </article>
-<article>    <section id="banner">
+
+
+   <section id="banner">
+   <article> 
       <header>
         <h2> Lets chat! </h2>
         <h3> Call Matt </h3>
@@ -92,8 +50,9 @@ const IndexPage = () => (
       <footer>
 
       </footer>
+      </article>
+
     </section>
-    </article>
 
 
     <article className="container box style1 left">

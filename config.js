@@ -15,7 +15,7 @@ module.exports = {
     {
       icon: 'fa-linkedin',
       name: 'LinkedIN',
-      url: 'https://facebook.com/https://www.linkedin.com/in/mattfhall/',
+      url: 'https://www.linkedin.com/in/mattfhall/',
     },
     {
       icon: 'fa-envelope-o',

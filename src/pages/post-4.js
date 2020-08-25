@@ -10,7 +10,8 @@ const IndexPage = () => (
     <article className="container box style3">
       <header>
         <h2> STATE OF THE SHARING ECONOMY IN AUSTRALIA</h2>
-  
+        <p>August 20, 2014</p>
+
         </header>
      
         <section>
@@ -27,7 +28,6 @@ const IndexPage = () => (
 
 <p>Chris Riedy <a href="https://twitter.com/chrisjriedy">@chrisjriedy</a> has put together a great list in his blog post called <a href="http://chrisriedy.me/collaborative-consumption-in-australia/"> Collaborative consumption</a> in Australia which features a number of Australian businesses. The list is categorised as Product Service Systems (or PSS), Redistribution Markets and Collaborative Lifestyles</p>
 
-<p>August 20, 2014</p>
       
       </section>
   
