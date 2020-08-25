@@ -12,7 +12,6 @@ import Gallery from '../components/Gallery';
 
 const IndexPage = () => (
   <Layout>
-    <Header />
 
 
 
@@ -49,7 +48,7 @@ const IndexPage = () => (
       <footer>
 
       </footer>
-      </article>
+    </article>
 
   
 

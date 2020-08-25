@@ -11,6 +11,7 @@ const IndexPage = () => (
       <header>
         <h2>Where is the citizen in transformation?</h2>
         <h3>Putting the last mile first in local government </h3>
+        <p>August 19, 2020</p>
         </header>
         <section>
 
