@@ -65,6 +65,7 @@ const IndexPage = () => (
         <p>
 Recently I’ve been taking a more active interest in the sharing economy, particularly with the seemingly meteoric success of global start-up’s like Airbnb and Uber and the impact they are having in Australia. 
         </p>
+        <Link to="/post-4"> Read now </Link></p>
 
       </div>
     </article>

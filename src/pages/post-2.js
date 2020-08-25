@@ -16,7 +16,7 @@ const IndexPage = () => (
         <section>
 
         <p>
-        The work we’ve have been doing at Briarbird of late often involves engagements with local governments, many of which provide insight into their respective digital transformation programs.  </p>
+        The work we’ve have been doing with <a href="http://briarbird.com/">Briarbird</a> of late often involves engagements with local governments, many of which provide insight into their respective digital transformation programs.  </p>
  
   <p>One of the surprising observations we’ve made is not all of these programs feature or prioritise the delivery of direct service benefits to citizens through digital channels, rather they tend to focus on strategic objectives like obtaining a single view of the customer for some future yet to be determined benefit.</p>
   
