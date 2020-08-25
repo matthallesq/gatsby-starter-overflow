@@ -7,6 +7,8 @@ import { Link } from 'gatsby';
 
 const IndexPage = () => (
   <Layout>
+        <Header />
+
     <article className="container box style3">
       <header>
         <h2> STATE OF THE SHARING ECONOMY IN AUSTRALIA</h2>
