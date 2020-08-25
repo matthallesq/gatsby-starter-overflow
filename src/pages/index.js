@@ -59,14 +59,6 @@ const IndexPage = () => (
   <Layout>
     <Header />
 
-    <section id="banner">
-      <header>
-        <h2> Lets chat! </h2>
-      </header>
-      <p>+61407233566</p>
-      <footer>
-      </footer>
-    </section>
 
 
     <article id="first" className="container box style1 right">
@@ -91,6 +83,18 @@ const IndexPage = () => (
       </div>
     </article>
 
+    <section id="banner">
+      <header>
+        <h2> Lets chat! </h2>
+        <h3> Call Matt </h3>
+
+      </header>
+      <p>+61407233566</p>
+      <footer>
+
+      </footer>
+    </section>
+    
     <article className="container box style1 left">
       <a href="/#" className="image fit">
         <img src={pic2} alt="" />
