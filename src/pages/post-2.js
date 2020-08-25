@@ -3,20 +3,23 @@ import React from 'react';
 import Layout from '../components/Layout';
 import Footer from '../components/Footer';
 import { Link } from 'gatsby';
+import pic1 from '../assets/images/pic01.jpg';
 
 
 const IndexPage = () => (
   <Layout>
     <article className="container box style3">
-      <header>
+      <header className="image fit">
+      
+        <img src={pic1} alt="" />
+    
         <h2>Where is the citizen in transformation?</h2>
-        <h3>Putting the last mile first in local government </h3>
+        <h3>Putting the last mile first in local government</h3>
         <p>August 19, 2020</p>
         </header>
         <section>
 
-        <p>
-        The work we’ve have been doing with <a href="http://briarbird.com/">Briarbird</a> of late often involves engagements with local governments, many of which provide insight into their respective digital transformation programs.  </p>
+  <p>The work we’ve have been doing with <a href="http://briarbird.com/">Briarbird</a> of late often involves engagements with local governments, many of which provide insight into their respective digital transformation programs.  </p>
  
   <p>One of the surprising observations we’ve made is not all of these programs feature or prioritise the delivery of direct service benefits to citizens through digital channels, which I’m calling the last mile (I hope you don’t mind me borrowing the term from logistics/networking) rather they tend to focus on strategic objectives like obtaining a single view of the customer for some future yet to be determined benefit.   </p>
   
