@@ -39,7 +39,6 @@ const IndexPage = () => (
     </article>
 
 
-   <section id="banner">
    <article> 
       <header>
         <h2> Lets chat! </h2>
@@ -52,7 +51,7 @@ const IndexPage = () => (
       </footer>
       </article>
 
-    </section>
+  
 
 
     <article className="container box style1 left">
