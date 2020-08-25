@@ -1,13 +1,13 @@
 import React from 'react';
 import Layout from '../components/Layout';
-import Header from '../components/Header';
+import Header from '../components/HeaderMin';
 import Footer from '../components/Footer';
 import { Link } from 'gatsby';
 
 
 const IndexPage = () => (
   <Layout>
-        <Header />
+        <HeaderMin />
 
     <article className="container box style3">
       <header>
