@@ -18,7 +18,7 @@ const IndexPage = () => (
         <p>
         The work we’ve have been doing with <a href="http://briarbird.com/">Briarbird</a> of late often involves engagements with local governments, many of which provide insight into their respective digital transformation programs.  </p>
  
-  <p>One of the surprising observations we’ve made is not all of these programs feature or prioritise the delivery of direct service benefits to citizens through digital channels, rather they tend to focus on strategic objectives like obtaining a single view of the customer for some future yet to be determined benefit.</p>
+  <p>One of the surprising observations we’ve made is not all of these programs feature or prioritise the delivery of direct service benefits to citizens through digital channels, which I’m calling the last mile (I hope you don’t mind me borrowing the term from logistics/networking) rather they tend to focus on strategic objectives like obtaining a single view of the customer for some future yet to be determined benefit.   </p>
   
   <p>Ironically some of the councils with the smaller coffers seem to have the best is class digital experiences, they appear to have put the last mile first, in that their focus has been on improving the customer experience for citizens through their digital channels.</p>
   
