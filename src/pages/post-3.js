@@ -10,7 +10,7 @@ const IndexPage = () => (
     <article className="container box style3">
       <header>
         <h2> WHAT IS DIGITAL?</h2>
-  
+        <p>May 13, 2015</p>
         </header>
      
         <section>

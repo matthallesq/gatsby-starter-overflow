@@ -10,6 +10,7 @@ const IndexPage = () => (
     <article className="container box style3">
       <header>
         <h2>LEAN CANVAS TEMPLATE IN VARIOUS POSTER SIZES</h2>
+        <p>August 19, 2014</p>
         <p>If you're looking to run some business model workshops using lean canvas and like me you still like using paper and post-it notes, try out these A0, A1 & A2 sized posters. 
 </p>
       </header>
