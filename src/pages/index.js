@@ -10,9 +10,21 @@ import pic3 from '../assets/images/pic03.jpg';
 import Scroll from '../components/Scroll';
 import Gallery from '../components/Gallery';
 
+
 const IndexPage = () => (
   <Layout>
+    <Header />
+    <section id="banner">
+      <header>
+        <h2> Lets chat! </h2>
+        <h3> Call Matt </h3>
 
+      </header>
+      <p>+61407233566</p>
+      <footer>
+
+      </footer>
+    </section>
 
 
     <article id="first" className="container box style1 right">
@@ -35,19 +47,6 @@ const IndexPage = () => (
         <p>   
         <Link to="/post-2"> Read now </Link></p>
       </div>
-    </article>
-
-
-   <article> 
-      <header>
-        <h2> Lets chat! </h2>
-        <h3> Call Matt </h3>
-
-      </header>
-      <p>+61407233566</p>
-      <footer>
-
-      </footer>
     </article>
 
   
