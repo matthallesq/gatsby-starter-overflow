@@ -3,10 +3,14 @@ import React from 'react';
 import Layout from '../components/Layout';
 import Footer from '../components/Footer';
 import { Link } from 'gatsby';
+import pic1 from '../assets/images/pic01.jpg';
+
 
 
 const IndexPage = () => (
   <Layout>
+            <img src={pic1} alt="" />
+
     <article className="container box style3">
       <header>
         <h2>LEAN CANVAS TEMPLATE IN VARIOUS POSTER SIZES</h2>
