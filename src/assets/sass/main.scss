@@ -34,7 +34,7 @@
 	form, label, legend, table, caption, tbody,
 	tfoot, thead, tr, th, td, article, aside,
 	canvas, details, embed, figure, figcaption,
-	footer, header, header-min, hgroup, menu, nav, output, ruby,
+	footer, header, hgroup, menu, nav, output, ruby,
 	section, summary, time, mark, audio, video {
 		margin: 0;
 		padding: 0;
@@ -694,17 +694,11 @@
 				background: #fff;
 				padding: 2em 3em 2em 3em;
 				margin: 0;
-			
-			header-min {
-					display: inline-block;
-					background: #fff;
-					padding: 2em 3em 2em 3em;
-					margin: 0;
+
 				p {
 					padding: 0;
 				}
 			}
-		}
 
 			.inner {
 				position: relative;
@@ -1107,11 +1101,6 @@
 
 			#header {
 				padding: 8em 0 10em 0;
-			}
-
-
-			#header-min {
-				padding: 1em 0 1em 0;
 			}
 
 	}
