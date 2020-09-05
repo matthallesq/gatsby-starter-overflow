@@ -13,7 +13,7 @@ export default function Header({ title, heading, avatar }) {
       </header>
       <footer>
       <p>Helping businesses apply contemporary approaches to customer and product development</p>
-
+x
         <Scroll type="id" element="banner">
    
         </Scroll>
