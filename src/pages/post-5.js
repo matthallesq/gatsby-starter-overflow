@@ -12,9 +12,10 @@ const IndexPage = () => (
 
     <article className="container box style3">
       <header>
-      <img src={pic5} alt="" />
         <h2>Re-imagining how we care for our fur friends</h2>
         <p>December 2, 2015</p>
+        <img src={pic5} alt="" />
+
 
         </header>
      

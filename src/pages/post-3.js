@@ -1,5 +1,4 @@
 import React from 'react';
-
 import Layout from '../components/Layout';
 import Footer from '../components/Footer';
 import { Link } from 'gatsby';
@@ -8,9 +7,12 @@ import { Link } from 'gatsby';
 const IndexPage = () => (
   <Layout>
     <article className="container box style3">
-      <header>
+      <header>  
+
         <h2> WHAT IS DIGITAL?</h2>
         <p>May 13, 2015</p>
+        <img src={pic1} alt="" />
+
         </header>
      
         <section>
