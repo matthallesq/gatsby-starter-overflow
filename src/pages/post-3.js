@@ -8,11 +8,10 @@ const IndexPage = () => (
   <Layout>
     <article className="container box style3">
       <header>  
+      <img src={pic1} alt="" />
 
         <h2> WHAT IS DIGITAL?</h2>
         <p>May 13, 2015</p>
-        <img src={pic1} alt="" />
-
         </header>
      
         <section>
