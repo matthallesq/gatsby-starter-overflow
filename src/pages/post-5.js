@@ -20,7 +20,7 @@ const IndexPage = () => (
      
         <section>
 
-        <p>At <a href="https://vetcaht.com.au">vetchat</a> our mission is to reimagine the way we care for our pets.</p>
+        <p>At <a href="https://vetchat.com.au">vetchat</a> our mission is to reimagine the way we care for our pets.</p>
 
         <p>In the not too distant future, telehealth (health care over telecommunication services such as phone or internet) will be such an integral part of your healthcare experience that telehealth will simply just be called healthcare.</p>
 
