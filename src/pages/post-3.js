@@ -9,7 +9,7 @@ import pic3 from '../assets/images/pic03.jpg';
 const IndexPage = () => (
   <Layout>
     <article className="container box style3">
-      <header>  
+    <header className="image fit">
       <img src={pic3} alt="" />
 
         <h2>WHAT IS DIGITAL?</h2>

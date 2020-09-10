@@ -11,7 +11,7 @@ const IndexPage = () => (
         <HeaderMin />
 
     <article className="container box style3">
-      <header>
+    <header className="image fit">
         <h2>Re-imagining how we care for our fur friends</h2>
         <p>December 2, 2015</p>
         <img src={pic5} alt="" />
@@ -20,7 +20,7 @@ const IndexPage = () => (
      
         <section>
 
-        <p>At vetchat our mission is to reimagine the way we care for our pets.</p>
+        <p>At <a href="https://vetcaht.com.au">vetchat</a> our mission is to reimagine the way we care for our pets.</p>
 
         <p>In the not too distant future, telehealth (health care over telecommunication services such as phone or internet) will be such an integral part of your healthcare experience that telehealth will simply just be called healthcare.</p>
 
@@ -58,7 +58,7 @@ const IndexPage = () => (
 
 <p>I guess that’s why we want you to consider vetchat.com.au next time your wondering if everything’s alright with your furry friend</p>
 
-<p>chat soon. Matt Hall & Dr Claire Jenkins at vetchat.com.au </p>
+<p>chat soon. Matt Hall & Dr Claire Jenkins at <a href="https://vetcaht.com.au">vetchat</a>  </p>
 
 <p>Sources</p>
 
