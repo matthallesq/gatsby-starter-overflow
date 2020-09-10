@@ -2,6 +2,8 @@ import React from 'react';
 import Layout from '../components/Layout';
 import Footer from '../components/Footer';
 import { Link } from 'gatsby';
+import pic3 from '../assets/images/pic03.jpg';
+
 
 
 const IndexPage = () => (
