@@ -10,7 +10,6 @@ const IndexPage = () => (
   <Layout>
     <article className="container box style3">
       <header className="image fit">
-      
     
         <h2>Where is the citizen in transformation?</h2>
         <h3>Putting the last mile first in local government</h3>

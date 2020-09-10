@@ -16,7 +16,6 @@ const IndexPage = () => (
         <p>December 2, 2015</p>
         <img src={pic5} alt="" />
 
-
         </header>
      
         <section>
