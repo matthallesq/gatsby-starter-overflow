@@ -7,6 +7,7 @@ import { Link } from 'gatsby';
 import pic1 from '../assets/images/pic01.jpg';
 import pic2 from '../assets/images/pic02.jpg';
 import pic3 from '../assets/images/pic03.jpg';
+import pic5 from '../assets/images/pic05.jpg';
 import Scroll from '../components/Scroll';
 import Gallery from '../components/Gallery';
 
@@ -50,9 +51,23 @@ const IndexPage = () => (
     </article>
 
   
-
-
     <article className="container box style1 left">
+      <a href="/post-4" className="image fit">
+        <img src={pic5} alt="" />
+      </a>
+      <div className="inner">
+        <header>
+          <h2>Re-imagining how we care for our fur friends</h2>
+        </header>
+        <p>
+        In the not too distant future, telehealth (health care over telecommunication services such as phone or internet) will be such an integral part of your healthcare experience that telehealth will simply just be called healthcare.</p>
+       <p> <Link to="/post-5"> Read now </Link></p>
+
+      </div>
+    </article>
+
+
+    <article className="container box style1 right">
       <a href="/post-4" className="image fit">
         <img src={pic2} alt="" />
       </a>
@@ -70,7 +85,7 @@ Recently I’ve been taking a more active interest in the sharing economy, parti
       </div>
     </article>
 
-    <article className="container box style1 right">
+    <article className="container box style1 left">
     <a href="/post-3" className="image fit">
         <img src={pic3} alt="" />
       </a>
